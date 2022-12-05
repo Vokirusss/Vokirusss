@@ -3,4 +3,4 @@
 - 🌱 I’m currently learning concepts of OOP and functional oriented programming in Python.
 - 📫 How to reach me:
 - Email: oleg.surikov.p@gmail.com
-- Telegram: @vokiruss
+- Telegram: @vokirusss
